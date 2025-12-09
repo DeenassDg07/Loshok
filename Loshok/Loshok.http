@@ -1,0 +1,6 @@
+@Loshok_HostAddress = http://localhost:5228
+
+GET {{Loshok_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
